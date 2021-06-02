@@ -1,1 +1,1 @@
-- Hello! My name is Felipe, i'm a student and I'm 16 years old and I'm passionate about technology.
+- Hello! My name is Felipe, i'm a student and I'm 16 years old and I'm passionate about technology. Currently course web programming in an extension project of CEFET-MG
